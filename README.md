@@ -37,7 +37,7 @@ Tenho experiência prática com:
 | Nome                        | Descrição                                         | Link                      |
 |-----------------------------|---------------------------------------------------|---------------------------|
 | Sistema Nutri               | App multiplataforma de gerenciamento nutricional  | [Ver projeto](https://github.com/maritheiras/sistemaNutri) |
-| Portifólio/Site             | Website portfólio com pagamentos via Stripe, automações com N8N + painel admin | [Acessar site](https://marithscot.com.br/) |
+| Portifólio/Site             | Website portfólio com pagamentos via Stripe, automações com N8N + Painel Admin | [Acessar site](https://marithscot.com.br/) |
 
 ---
 
