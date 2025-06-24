@@ -21,33 +21,13 @@ Tenho experiência prática com:
 
 ---
 
-## ✨ Principais Projetos
-
-### 🥗 Sistema de Nutrição (TCC)
-**Tema:** *Sistema de gerenciamento de nutrientes do consumo de refeições: um estudo exploratório da ferramenta FlutterFlow*  
-- Aplicação multiplataforma (Web + Mobile)
-- Cadastro e controle de alimentos e refeições
-- Interface intuitiva para nutricionistas e pacientes
-- Backend com Firebase
-- [Ver projeto](https://github.com/maritheiras/sistemaNutri)
-
-### 📚 Website e Portfólio para Vendas de Livros
-Desenvolvido com **Lovable (vibecoding)** + **n8n** + **Supabase**  
-- Checkout com Stripe
-- Automação de e-mails pós-compra via n8n
-- Integração com WhatsApp e redes sociais
-- Painel administrativo com CMS para livros, blogs e serviços
-- [Acessar site](https://marithscot.com.br/)
-
----
-
 ## 🧰 Tecnologias & Ferramentas
 
 | Área                   | Ferramentas/Stacks                                                                      |
-|------------------------|------------------------------------------------------------------------------------------|
+|------------------------|-----------------------------------------------------------------------------------------|
 | **Front-end**          | TypeScript • Vite • React • shadcn-ui • Tailwind CSS                                    |
-| **Back-end/Serviços**  | Firebase • Supabase • N8N                                                                |
-| **Mobile/Web App**     | Flutter • Dart • FlutterFlow                                                             |
+| **Back-end/Serviços**  | Firebase • Supabase • N8N • Pabbly • Stripe                                             |
+| **Mobile/Web App**     | Flutter • Dart • FlutterFlow                                                            |
 | **Outros**             | Git • GitHub • Power BI • Excel Avançado • Metodologias Ágeis (Scrum)                   |
 
 ---
