@@ -2,7 +2,7 @@
 
 🎓 Recém-formado em **Sistemas de Informação** pelo Instituto Federal Fluminense  
 💡 Apaixonado por tecnologia, inovação e desenvolvimento **low-code / no-code / fullstack**  
-🚀 Explorando soluções inteligentes com **FlutterFlow**, **Firebase**, **Supabase**, **n8n** e **VibeCoding**
+🚀 Explorando soluções inteligentes com **FlutterFlow**, **Firebase**, **Supabase**, **n8n**
 
 ---
 
