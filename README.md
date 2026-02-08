@@ -1,8 +1,6 @@
 # 👋 Olá! Eu sou Márith Eiras Scot Filho
 
 🎓 Formado em **Sistemas de Informação** pelo Instituto Federal Fluminense  
-💡 Apaixonado por tecnologia, inovação e desenvolvimento **low-code / no-code / fullstack**  
-🚀 Explorando soluções inteligentes com **FlutterFlow**, **Firebase**, **Supabase**, **n8n**
 
 ---
 
@@ -38,6 +36,7 @@ Tenho experiência prática com:
 |-----------------------------|---------------------------------------------------|---------------------------|
 | Sistema Nutri               | App multiplataforma de gerenciamento nutricional  | [Ver projeto](https://github.com/maritheiras/sistemaNutri) |
 | Portifólio/Site             | Website portfólio com pagamentos via Stripe, automações com N8N + Painel Admin | [Acessar site](https://marithscot.com.br/) |
+| MeuTrocado                  | App multiplataforma gerenciamento financeiro      | [Acessar site](https://meutrocado.com/)
 
 ---
 
