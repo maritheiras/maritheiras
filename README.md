@@ -36,7 +36,7 @@ Tenho experiência prática com:
 |-----------------------------|---------------------------------------------------|---------------------------|
 | Sistema Nutri               | App multiplataforma de gerenciamento nutricional  | [Ver projeto](https://github.com/maritheiras/sistemaNutri) |
 | Portifólio/Site             | Website portfólio com pagamentos via Stripe, automações com N8N + Painel Admin | [Acessar site](https://marithscot.com.br/) |
-| MeuTrocado                  | App multiplataforma gerenciamento financeiro      | [Acessar site](https://meutrocado.com/)
+| MeuTrocado                  | App multiplataforma de gerenciamento financeiro      | [Acessar site](https://meutrocado.com/)
 
 ---
 
