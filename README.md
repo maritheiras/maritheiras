@@ -23,9 +23,9 @@ Tenho experiência prática com:
 
 | Área                   | Ferramentas/Stacks                                                                      |
 |------------------------|-----------------------------------------------------------------------------------------|
-| **Front-end**          | TypeScript • Vite • React • shadcn-ui • Tailwind CSS                                    |
-| **Back-end/Serviços**  | Firebase • Supabase • N8N • Pabbly • Stripe                                             |
-| **Mobile/Web App**     | Flutter • Dart • FlutterFlow                                                            |
+| **Front-end**          | TypeScript • Vite • Next.js • React • Tailwind CSS • shadcn-ui                          |
+| **Back-end/Serviços**  | Firebase • Supabase • N8N • Stripe                                                      |
+| **Mobile/Web App**     | Flutter • Dart • FlutterFlow • JavaScript                                               |
 | **Outros**             | Git • GitHub • Power BI • Excel Avançado • Metodologias Ágeis (Scrum)                   |
 
 ---
